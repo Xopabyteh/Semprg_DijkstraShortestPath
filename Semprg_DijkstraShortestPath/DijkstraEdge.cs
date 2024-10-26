@@ -1,0 +1,1 @@
+public readonly record struct DijkstraEdge(DijkstraNode From, DijkstraNode To, float Value);

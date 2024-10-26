@@ -1,0 +1,1 @@
+public readonly record struct DijkstraVisitedMetadata(DijkstraNode ReachedFrom, float TotalDistance);
